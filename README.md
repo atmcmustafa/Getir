@@ -1,4 +1,6 @@
 # Getir mainpage clone
+[Demo](https://getir-ruby.vercel.app/)
+![Ekran görüntüsü 2023-07-20 170349](https://github.com/atmcmustafa/Getir/assets/98126723/bca3c7da-8183-42c4-b5a2-d90611d22e1b)
 
 ## Available Scripts
 
